@@ -31,9 +31,9 @@ We've also put together a few `.json` files containing all the Pokémon data fro
 
 ##### Figma design files
 
-* [Figma design file](https://www.figma.com/file/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?node-id=0%3A1)
-* [Figma design functionality annotations](https://www.figma.com/file/VG6vlf1ow8zGZZrn6dvWiT/Untitled?node-id=0%3A1)
-* [Figma prototype (scrolling demo)](https://www.figma.com/proto/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?page-id=0%3A1&node-id=25%3A16401&viewport=1220%2C218%2C0.6763948798179626&scaling=min-zoom)
+- [Figma design file](https://www.figma.com/file/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?node-id=0%3A1)
+- [Figma design functionality annotations](https://www.figma.com/file/VG6vlf1ow8zGZZrn6dvWiT/Untitled?node-id=0%3A1)
+- [Figma prototype (scrolling demo)](https://www.figma.com/proto/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?page-id=0%3A1&node-id=25%3A16401&viewport=1220%2C218%2C0.6763948798179626&scaling=min-zoom)
 
 #### Constraints
 
