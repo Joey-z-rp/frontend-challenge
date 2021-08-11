@@ -60,7 +60,6 @@ const createTeamReducer = (state = initialState, action: StandardAction): Create
       };
 
     case UPDATE_SEARCH_INPUT:
-      console.log(action.payload!.input);
       return {
         ...state,
         searchInput: action.payload!.input,
