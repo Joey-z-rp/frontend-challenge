@@ -3,6 +3,7 @@ import CreateTeamHeader from './CreateTeamHeader';
 import FilterSection from './filterSection/FilterSection';
 import SearchSection from './SearchSection';
 import SelectedMembers from './selectedMembers/SelectedMembers';
+import PokemonList from './pokemonList/PokemonList';
 
 const CreateTeam: FunctionComponent = () => {
   return (
@@ -11,6 +12,7 @@ const CreateTeam: FunctionComponent = () => {
       <SelectedMembers />
       <SearchSection />
       <FilterSection />
+      <PokemonList />
     </div>
   );
 };
